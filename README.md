@@ -1,6 +1,6 @@
 # Organizador mensual del equip0o de Mexicanes – Gestión de sedes, voluntariado, resposables de esteriloizaciones y nómina. 
 
-Este proyecto implementa un sistema en C++ para la asociación sin fines de lucro Mexicanes, dedicada a la esterilización de perros callejeros**.  
+Este proyecto implementa un sistema en C++ para la asociación sin fines de lucro Mexicanes, dedicada a la esterilización de perros callejeros.  
 El programa permite administrar sedes mensuales, integrantes (empleados, voluntarios y responsables), horas de trabajo y salarios, además de calcular el salario neto después de impuestos.
 
 ---
