@@ -41,4 +41,4 @@ La arquitectura está basada en composición y agregación para reflejar cómo i
 
 ## TO DO
 
-Modificar codigo
+Terminar codigo
